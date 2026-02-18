@@ -55,8 +55,8 @@ currently: Learning and building cool stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FnDXueyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnDXueyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=FnDXueyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=FnDXueyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" alt="Top Languages"/>
 
 <br/>
 
@@ -70,7 +70,7 @@ currently: Learning and building cool stuff
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FnDXueyi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FnDXueyi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
