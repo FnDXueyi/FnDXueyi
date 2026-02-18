@@ -66,16 +66,6 @@ currently: Learning and building cool stuff
 
 ---
 
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FnDXueyi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### Activity Graph
 
 <div align="center">
