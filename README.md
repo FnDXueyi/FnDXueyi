@@ -6,7 +6,7 @@ I prefer reading code over writing it, and shipping small things over planning b
 
 ## Stack
 
-Luau · TypeScript · JavaScript · Python · Node · Roblox Studio
+Luau · TypeScript · JavaScript · Python · Node
 
 ## Reach me
 
