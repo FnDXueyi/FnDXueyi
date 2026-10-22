@@ -1,4 +1,4 @@
-![A green black hole bending Matrix code rain around it](assets/banner.gif)
+![A teal black hole on the edge of the frame, pulling Matrix code rain into it](assets/banner.gif)
 
 # Hi, I'm Syahbanio · @FnDXueyi
 
